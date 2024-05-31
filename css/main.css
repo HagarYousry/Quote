@@ -1,0 +1,20 @@
+body{
+    background-image: url(../imgs/bg.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.title{
+    font-size: 60px;
+}
+#quote,
+#author{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+}
+
+#author{
+    color: rgb(173, 82, 82);
+}
